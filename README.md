@@ -2,10 +2,10 @@
 - Try To log in with random username or password.
 - You will get a error message asking you to sign up.
 - Sign up with username and password (this time remember them :))
-- Restart the kernel (This is important step to be done to test for now, bug will be fixed soon...)
 - Run the program again.
 - Login with your username and password
 - You will get a welcome message, saying welcome username, password.
+- (Message saying welcome UserNone) is a Bug that will be fixed soon.
 ______________________________________________________________________________________
 #simple_signupForm_with_python
 
